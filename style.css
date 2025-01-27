@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(37, 37, 243);
+    font-family: 'Courier New', Courier, monospace;
+    color: antiquewhite;
+}
+
+.flex-1 {
+    display: flex;
+    justify-content: center;
+}
